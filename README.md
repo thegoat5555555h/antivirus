@@ -1,5 +1,4 @@
 # antivirus
-# Virus Scan Script
 
 This script performs a virus scan on your computer using Windows Defender and provides an option to support the developer through a PayPal donation.
 
